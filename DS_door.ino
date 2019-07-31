@@ -15,8 +15,8 @@ char ssid[] = "Datasemantics";
 // your network password
 char password[] = "D@ta#sem@nticz";
 // MQTTServer to use
-char server[] = "192.168.20.30";
-//char server[] = "192.168.20.31";
+char server[] = "Ur Raspberry Pi ip";
+
 
 #define LED RED_LED
 
