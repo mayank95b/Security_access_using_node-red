@@ -7,7 +7,7 @@ Step 1 : Install nodejs and npm
 
 Refer to below instructions:
 
-      https://www.instructables.com/id/Install-Nodejs-and-Npm-on-Raspberry-Pi/
+  https://www.instructables.com/id/Install-Nodejs-and-Npm-on-Raspberry-Pi/
       
 Step 2 : Now Install NodeRed and Nodered dashboard
 
