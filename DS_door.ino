@@ -11,9 +11,9 @@
 #include <PubSubClient.h>
 
 // your network name also called SSID
-char ssid[] = "Datasemantics";
+char ssid[] = "Enter ssid/username";
 // your network password
-char password[] = "D@ta#sem@nticz";
+char password[] = "Enter Wifi password";
 // MQTTServer to use
 char server[] = "Ur Raspberry Pi ip";
 
