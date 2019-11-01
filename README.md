@@ -3,6 +3,7 @@
 The Project aims to control relay with is interfaced with CC3200 launch pad and broker is running on Raspberry Pi.
 
 Initial setup for PI and Node-RED from pre-requisite
+
 Step 1 : Install nodejs and npm
 
 Refer to below instructions:
