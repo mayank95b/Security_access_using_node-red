@@ -1,6 +1,6 @@
 # Security Access using_Node-red_dashboard and AWS IoT MQTT client
 
-The Project aims to control security Door on primises.(Egde Computing)
+The Project aims to control security access/Door using Node-red dashboard on mobile. 
 
 Initial setup for PI and Node-RED from pre-requisite
 
